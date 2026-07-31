@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PrivKeyAI</string>
-    <string name="ime_name">PrivKeyAI Keyboard</string>
+    <string name="app_name">Keyri</string>
+    <string name="ime_name">Keyri Keyboard</string>
     <string name="ime_subtype_label">English (US)</string>
 </resources>
